@@ -148,4 +148,4 @@ json
 * Contact: 950154@gmail.com /Sammy Fang
 
 ### 📜 License
-This project is for internal research and development. Unauthorized distribution is prohibited.
+This project is for research usage only. Unauthorized distribution is prohibited.
