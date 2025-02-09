@@ -1,0 +1,8 @@
+opencv-python-headless
+numpy
+keras
+tensorflow
+configparser
+moviepy
+librosa
+pandas
