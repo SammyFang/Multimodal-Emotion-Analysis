@@ -1,5 +1,5 @@
 # AI-EMOtion Analysis Expert (Kernel Base) v0.5.2
-
+# 基於深度學習的影像與聲音情感分析智慧系統
 A powerful AI-driven emotion recognition system integrating **Speech Emotion Recognition (SER)** and **Image Emotion Recognition (IER)**. This system enables real-time emotion detection using deep learning models, fully containerized for seamless deployment via **Docker**.
 
 ## ⚙️ System Requirements
